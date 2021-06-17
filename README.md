@@ -4,7 +4,10 @@
 
 You can make 50 requests per hour. 
 
-You can search many images you want to see.
+
+Search images you want to see.
+
+https://pixes.netlify.app/
 
 ## Search Images: 
 ### Cake images:
